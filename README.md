@@ -1,6 +1,8 @@
 <div align="center">
   <h1>🚨 Advanced C2 Beaconing Detection Engine 🚨</h1>
   <p><strong>A Next-Generation SOC Portfolio Project for Threat Hunting & Traffic Analysis</strong></p>
+  <br>
+  <img src="assets/dashboard_mockup.jpg" alt="SOC Dashboard Preview" width="800"/>
 </div>
 
 ---
