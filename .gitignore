@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Mac
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# You can uncomment these if you don't want to push your generated test files
+# data/raw_pcap/*.pcap
+# data/processed/*.csv
+# reports/*.csv
